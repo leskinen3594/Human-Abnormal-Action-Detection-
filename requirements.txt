@@ -1,0 +1,6 @@
+numpy==1.22.2
+object-detection==0.0.3
+opencv-python==4.5.5.62
+openni==2.3.0
+primesense==2.2.0.30-5
+tensorflow==2.8.0
